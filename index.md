@@ -1,8 +1,22 @@
 ---
 layout: default
 ---
+# [](#header-1)Welcome
+Welcome to my site. I am Kathleen Yin, a 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)Projects
+
+# [](#header-1)Media Coverage
+
+# [](#header-1)Game Development and Design
+
+# [](#header-1)Contact/Profiles
+
+
+
+
+
+
 
 [Link to another page](another-page).
 
