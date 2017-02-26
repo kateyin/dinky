@@ -31,10 +31,11 @@ Welcome to my site. I am Kathleen Yin, a scientist and serious game developer ba
 *   Working with Bupa, I helped designing a mobile-based game aimed at teaching young children the benefit of healthy eating, securing top place in the inaugural HackingHealth hackathon in Australia.
 
 **[HealthHack/PainPal](https://www.uq.edu.au/news/article/2016/06/queensland-researchers-take-pain-out-of-pain-apps)**
-*   
+*   Winning the Brisbane session of the 2015 HealthHack hackathon with the design of a mobile phone-based application aiming to improve the recording of pain symptoms and impact on the quality of life for chronic pain patients.
+*   Consequently commissioned by the University of Queensland to further develop the app into a prototype.
 
 
-# [](#header-1)Contact/Profiles
+# [](#header-1)Contact
 
 
 
