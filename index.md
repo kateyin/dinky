@@ -46,7 +46,7 @@ Welcome to my site. I am Kathleen Yin, a scientist and serious game developer ba
 
 * [LinkedIn](https://www.linkedin.com/in/kathleen-yin-74aa4843/)
 
-* [Email](mailto:kathleen.yin@afk-studios.com)
+* Email: kathleen.yin@afk-studios.com
 
 
 
