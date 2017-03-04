@@ -35,7 +35,19 @@ Welcome to my site. I am Kathleen Yin, a scientist and serious game developer ba
 *   Consequently commissioned by the University of Queensland to further develop the app into a prototype.
 
 
+# [](#header-1)Personal Projects
+
+* Project manager and head translator of the fan translations of the [Fate/Zero novel](https://www.baka-tsuki.org/project/index.php?title=Fate/Zero) and the [Mushi to Medama light novel](https://www.baka-tsuki.org/project/index.php?title=Mushi_to_Medama).
+
+
 # [](#header-1)Contact
+
+* [Twitter](https://twitter.com/brynhilde_012)
+
+* [LinkedIn](https://www.linkedin.com/in/kathleen-yin-74aa4843/)
+
+* [Email](mailto:kathleen.yin@afk-studios.com)
+
 
 
 
